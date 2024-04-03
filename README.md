@@ -2,4 +2,4 @@
 ## Input Image
 ![](https://www.haydnsymons.com/wp-content/uploads/2019/01/girl-with-a-pearl-earring.jpg)
 ## Output ASCII Art
-
+![](https://github.com/ap0calypse8/image-to-ASCII/blob/master/outt.png)
